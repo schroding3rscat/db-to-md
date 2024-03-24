@@ -1,0 +1,4 @@
+{
+    "skip_tables": "pg_%",
+    "skip_schema": "pg_*|public|information_schema|repack"
+}
